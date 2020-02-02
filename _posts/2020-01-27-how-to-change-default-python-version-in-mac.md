@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: posts
 title:  "How to change the default Python version in Mac"
 ---
-
-# How to change the default Python version in Mac
 
 By default, MacOS directs to Python 2. This tutorial is about how to change it to other version of Python (like 3).
 
