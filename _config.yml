@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Keunsoo Park's technical blog"
+title                    : "KP's technical blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Keunsoo Park"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Keunsoo Park"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/KeunsooPark.JPG"
   bio              : "Senior Data Engineer @ Arundo Analytics"
   location         : "Oslo, Norway"
   email            :
