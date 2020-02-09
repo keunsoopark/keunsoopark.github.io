@@ -20,7 +20,7 @@ I registered my first exam at the end of November, and took it at the middle of 
 
 ## What are the benefits of having certification?  
 
-My major motivation was to have a big picture on Azure cloud platform. When I decided to prepare for this certification, I already have worked with Azure platform over a year as both data engineer and DevOps engineer. Since I studied and used about the services on demand, my knowledge and experience were quite scattered, and it makes me forgetting of the details easily. While I prepared for the exam, I got a better understanding on the Azure services, especially how different services are relevant each other and which service/configuration I have to use at the given use case.  
+My major motivation was to have a big picture on Azure cloud platform. When I decided to prepare for this certification, I already have worked with Azure platform over a year as both data engineer and DevOps engineer. Since I studied and used the services on demand, my knowledge and experience were quite scattered, and it makes me forgetting of the details easily. While I prepared for the exam, I got a better understanding on the Azure services, especially how different services are relevant each other and which service/configuration I have to use at the given use case.  
 
 At the same time, you can highligh your CV, and having the certification can potentially make your company having better partnership with Microsoft: [reference](https://trainingsupport.microsoft.com/en-us/mcp/forum/all/benefits-to-my-company-to-have-a-microsoft-azure/e0380874-c2d5-454b-bfab-2b2606ca981c).  
 
