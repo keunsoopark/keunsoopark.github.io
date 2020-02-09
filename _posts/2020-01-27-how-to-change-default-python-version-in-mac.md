@@ -7,7 +7,7 @@ By default, MacOS directs to Python 2. This tutorial is about how to change it t
 
 Open the terminal.
 
-Change your defulat Python version first  
+Check your defulat Python version first  
 ```
 python --version
 ```
@@ -17,7 +17,7 @@ Install python-3 using Homebrew (https://brew.sh).
 brew install python
 ````
 
-Look where it is installed.  
+Check where it is installed.  
 ```
 ls -l /usr/local/bin/python*
 ```
@@ -47,7 +47,7 @@ Change the default Python to the version you want from above
 ln -s -f /usr/local/bin/python3.7 /usr/local/bin/python
 ```
 
-Change if the change was successful  
+Check if the change was successful  
 ```
 python --version
 ```
