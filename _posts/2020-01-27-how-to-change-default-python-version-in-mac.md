@@ -14,7 +14,7 @@ python --version
 
 Install python-3 using Homebrew (https://brew.sh).  
 ```
-brew install python
+brew install python3
 ````
 
 Check where it is installed.  
